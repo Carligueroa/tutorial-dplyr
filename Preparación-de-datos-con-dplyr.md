@@ -1,6 +1,6 @@
 Preparación de datos con dplyr
 ================
-Carlos Figueroa
+Carlos Figueroa 
 Junio 2020
 
 ### Introducción
